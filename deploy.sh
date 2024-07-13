@@ -14,7 +14,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:<drainkid>/<drainkid>.github.io.git master
+git git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 
 
